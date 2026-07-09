@@ -13,21 +13,21 @@ class Solution:
         # Sum 0 is always possible
         for i in range(n):
             dp[i][0] = True
+        if nums[0] <= target:
+            dp[0][nums[0]] = True
 
-        # Base case: last index
-        if nums[n - 1] <= target:
-            dp[n - 1][nums[n - 1]] = True
+        
 
         # Fill table backwards
-        for i in range(n - 2, -1, -1):
+        for i in range(1,n):
             for t in range(1, target + 1):
 
-                notTake = dp[i + 1][t]
+                notTake = dp[i - 1][t]
 
                 take = False
                 if nums[i] <= t:
-                    take = dp[i + 1][t - nums[i]]
+                    take = dp[i - 1][t - nums[i]]
 
                 dp[i][t] = take or notTake
 
-        return dp[0][target]
+        return dp[n-1][target]
