@@ -8,26 +8,27 @@ class Solution:
         target = total // 2
         n = len(nums)
 
-        dp = [[False] * (target + 1) for _ in range(n)]
-
+        prev = [False] * (target + 1) 
         # Sum 0 is always possible
-        for i in range(n):
-            dp[i][0] = True
+        prev[0] = True
         if nums[0] <= target:
-            dp[0][nums[0]] = True
+            prev[nums[0]] = True
 
         
 
-        # Fill table backwards
+        
         for i in range(1,n):
+            curr = [False] * (target + 1) 
+            curr[0] = True
             for t in range(1, target + 1):
 
-                notTake = dp[i - 1][t]
+                notTake = prev[t]
 
                 take = False
                 if nums[i] <= t:
-                    take = dp[i - 1][t - nums[i]]
+                    take = prev[t - nums[i]]
 
-                dp[i][t] = take or notTake
+                curr[t] = take or notTake
+            prev = curr
 
-        return dp[n-1][target]
+        return prev[target]
