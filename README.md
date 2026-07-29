@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Sayyywhyyyshreee/LeetcodeDP/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Sayyywhyyyshreee/LeetcodeDP/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0141-linked-list-cycle](https://github.com/Sayyywhyyyshreee/LeetcodeDP/tree/master/0141-linked-list-cycle) |
 ## Linked List
 |  |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Sayyywhyyyshreee/LeetcodeDP/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0516-longest-palindromic-subsequence](https://github.com/Sayyywhyyyshreee/LeetcodeDP/tree/master/0516-longest-palindromic-subsequence) |
 ## Tree
 |  |
@@ -62,4 +64,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/Sayyywhyyyshreee/LeetcodeDP/tree/master/0543-diameter-of-binary-tree) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Sayyywhyyyshreee/LeetcodeDP/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
