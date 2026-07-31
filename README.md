@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/Sayyywhyyyshreee/LeetcodeDP/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Sayyywhyyyshreee/LeetcodeDP/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Sayyywhyyyshreee/LeetcodeDP/tree/master/0518-coin-change-ii) |
+| [1004-max-consecutive-ones-iii](https://github.com/Sayyywhyyyshreee/LeetcodeDP/tree/master/1004-max-consecutive-ones-iii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -68,4 +69,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sayyywhyyyshreee/LeetcodeDP/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1004-max-consecutive-ones-iii](https://github.com/Sayyywhyyyshreee/LeetcodeDP/tree/master/1004-max-consecutive-ones-iii) |
+## Binary Search
+|  |
+| ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/Sayyywhyyyshreee/LeetcodeDP/tree/master/1004-max-consecutive-ones-iii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/Sayyywhyyyshreee/LeetcodeDP/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
