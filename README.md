@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/Sayyywhyyyshreee/LeetcodeDP/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Sayyywhyyyshreee/LeetcodeDP/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Sayyywhyyyshreee/LeetcodeDP/tree/master/0518-coin-change-ii) |
+| [0875-koko-eating-bananas](https://github.com/Sayyywhyyyshreee/LeetcodeDP/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/Sayyywhyyyshreee/LeetcodeDP/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Sayyywhyyyshreee/LeetcodeDP/tree/master/1004-max-consecutive-ones-iii) |
 ## Dynamic Programming
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0875-koko-eating-bananas](https://github.com/Sayyywhyyyshreee/LeetcodeDP/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/Sayyywhyyyshreee/LeetcodeDP/tree/master/1004-max-consecutive-ones-iii) |
 ## Prefix Sum
 |  |
